@@ -1,0 +1,11 @@
+[package]
+name = "project"
+version = "0.1.0"
+authors = ["Milen Radkov <milenradkov@me.com>"]
+edition = "2018"
+
+[dependencies]
+handlebars = "1.1.0"
+motivations = "1.1.2"
+pick-one = "1.0.1"
+simple-server = "0.4.0"
